@@ -1,1 +1,3 @@
 # Summarizing-Data-Deducing-Probs
+
+PluralSight Summarizing Data and Deducing Probabilities Using Python ...
